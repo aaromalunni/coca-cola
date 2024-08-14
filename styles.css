@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+.imbd{
+    display: flex;
+    justify-content: center;
+
+}
+.brand-grid {
+    margin-top: 20px;
+}
+.brand-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
